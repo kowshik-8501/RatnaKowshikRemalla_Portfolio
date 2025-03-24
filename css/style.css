@@ -15,7 +15,7 @@
   }
   
  body {
-  background-image: url("file:///C:/Users/kolus/OneDrive/Desktop/KOWSHIK/PROJECTS/Portfolio%20Web%20Page/assets/footer-navy.png");
+  background-image: url(../assets/footer-navy.jpg);
   background-size: contain;
   overflow-x: hidden;
 }
@@ -31,7 +31,7 @@
     --------------------------------------------------->
   */
   .main {
-    background-image: url("/assets/wood\ img.jpg")
+    background-image: url(../assets/wood-navy.png);
     color: antiquewhite;
     display: flex;
     flex-direction: column;
