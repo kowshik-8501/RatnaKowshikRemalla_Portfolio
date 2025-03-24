@@ -31,7 +31,7 @@
     --------------------------------------------------->
   */
   .main {
-    background-image: url("C:\Users\kolus\OneDrive\Desktop\KOWSHIK\PROJECTS\Portfolio Web Page\assets\wood-navy.png");
+    background-image: url("/assets/wood\ img.jpg")
     color: antiquewhite;
     display: flex;
     flex-direction: column;
